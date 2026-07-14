@@ -12,7 +12,7 @@
 
 ## 🌟 Overview
 
-The **Calculator Python App** is a beginner-friendly, Tkinter-based graphical desktop calculator built as part of a structured Python learning curriculum at **BiStartX**. The application presents a polished dark-mode user interface where users enter two numbers and instantly compute their sum, difference, product, or quotient — all while handling errors like division by zero and non-numeric input gracefully.
+The **Calculator Python App** is a beginner-friendly, Tkinter-based graphical desktop calculator built as part of a structured Python learning. The application presents a polished dark-mode user interface where users enter two numbers and instantly compute their sum, difference, product, or quotient — all while handling errors like division by zero and non-numeric input gracefully.
 
 This project was developed to reinforce fundamental Python concepts such as:
 - Variables and dynamic typing
@@ -143,7 +143,7 @@ The calculator window will launch immediately — no extra dependencies or packa
 
 ---
 
-## 🧠 Learning Objectives (BiStartX Week 1)
+## 🧠 Learning Objectives
 
 > ✅ **Objective**: Introduce Python's basic syntax, variables, data types, and arithmetic operations while building familiarity with user interaction and GUI programming.
 

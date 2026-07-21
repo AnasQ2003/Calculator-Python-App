@@ -1,3 +1,5 @@
+<div align="center">
+
 # 🧮 Calculator Python App — Desktop GUI Calculator
 
 > A clean, modern desktop calculator built with Python and Tkinter, featuring a dark-themed user interface with four core arithmetic operations and robust input validation.
@@ -7,6 +9,8 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB.svg?style=flat-square&logo=python)](https://www.python.org/)
 [![Tkinter](https://img.shields.io/badge/GUI-Tkinter-FF6F00.svg?style=flat-square)](https://docs.python.org/3/library/tkinter.html)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
+
+</div>
 
 ---
 
@@ -167,7 +171,7 @@ The calculator window will launch immediately — no extra dependencies or packa
 ```
 MIT License
 
-Copyright (c) Calculator Python App ---2026 AnasQ2003
+Copyright (c) Calculator Python App --- 2026 AnasQ2003
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -200,7 +204,5 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 Made with 💧 and a lot of ☕
 
 **⭐ If you found this useful, please star the repository!**
-
-*Stay hydrated. Stay healthy.*
 
 </div>
